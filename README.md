@@ -753,7 +753,7 @@ python --version
 ## 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/chess-game.git
+git clone https://github.com/mahandhgh/Chess-with-GUI.git
 ```
 
 ## 2. Navigate to the Project
